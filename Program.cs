@@ -25,7 +25,7 @@ namespace Dictonary
 
             foreach (var sirasi in yemek.Numara)
             {
-                
+                Console.Writeline("Yemeğin sırası :"+ sirasi );    
             }
         }
     }
